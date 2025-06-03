@@ -24,10 +24,10 @@ The project uses a dataset containing 11,056 URLs with 30 features each. The dat
 The model analyzes 30 different website features to detect phishing URLs. These features are categorized into:
 
 ### Feature Categories
-- **URL-based Features** (7 features) - URL structure, length, special characters, and domain analysis
-- **Security Features** (3 features) - SSL certificates, domain registration, and HTTPS usage  
-- **HTML/JavaScript Features** (11 features) - External requests, forms, redirects, and interactive elements
-- **Domain Features** (9 features) - Domain age, traffic, PageRank, and reputation metrics
+- **URL-based Features** - URL structure, length, special characters, and domain analysis
+- **Security Features** - SSL certificates, domain registration, and HTTPS usage  
+- **HTML/JavaScript Features** - External requests, forms, redirects, and interactive elements
+- **Domain Features** - Domain age, traffic, PageRank, and reputation metrics
 
 *For a complete list of all 30 features and their descriptions, see `Dataset Website Parameters.txt`*
 
