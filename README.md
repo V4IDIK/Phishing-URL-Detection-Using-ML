@@ -65,17 +65,4 @@ pip install jupyter
 jupyter notebook
 ```
 
-## Usage
-
-### 1. Clone the Repository
-```bash
-git clone <repository-url>
-cd phishing-url-detection
-```
-
-### 2. Run the Main Analysis
-Open and run the Jupyter notebooks:
-- `Phishing URL Detection.ipynb` - Main analysis notebook
-- `Random Forest.ipynb` - Random Forest implementation
-
 
